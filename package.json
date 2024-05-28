@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "nodemon express_middleware_l1.js",
+    "start": "nodemon express_middleware_l2.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.1"
+  }
+}
